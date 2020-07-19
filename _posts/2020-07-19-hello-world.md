@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Demo viết bài đầu tiên
+title: Hello World
 tags: [thuật toán, đệ quy, codeforces]
 ---
 
 # Demo
 
 ## phần 1
-đây là phần 1 hướng các làm gì đấy
+Xin chào tất cả mọi người đến với trang web của tôi.....
 
 ## phần 2
 Còn đây là code
