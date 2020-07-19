@@ -28,6 +28,7 @@ Sau đó dùng ([`rfind()`](https://python-reference.readthedocs.io/en/latest/do
 
 Độ dài cần tìm chính là khoảng cách từ sau vị trí đó đến cuối xâu.
 
+![mình hoạ lời giải length of last word](https://i.ibb.co/VmSvxkg/white.png "Length of Last Word")
 
 ### Solution in Python
 
