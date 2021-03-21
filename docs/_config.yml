@@ -206,6 +206,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
@@ -320,3 +321,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+theme: minimal-mistakes-jekyll
